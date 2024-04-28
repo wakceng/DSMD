@@ -1,17 +1,26 @@
 # DSMD
 A dataset
 
-You can get it on Baidu Netdisk: ""
+You can get it on Baidu Netdisk: "https://pan.baidu.com/s/1AfBM7JjGd_hNTX_LyotiJQ?pwd=dsmd"
 
-We are uploading the dataset to GitHub
+We are uploading the dataset to GitHub.
 
 
+Here is the tree struct of DSMD.
+
+DSMD
 ├── train
+
 │   ├── images
+
 │   └── labels
+
 └── val
+
     ├── images
+    
     └── labels
+    
 
 DSMD
 ├── train
