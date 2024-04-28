@@ -8,15 +8,22 @@ We are uploading the dataset to GitHub.
 
 Here is the tree struct of DSMD.
 
-'''
+
 DSMD
+
 ├── train
+
 │   ├── images
+
 │   └── labels
+
 └── val
+
     ├── images
+
     └── labels
-'''
+
+
 
 DSMD
 ├── train
